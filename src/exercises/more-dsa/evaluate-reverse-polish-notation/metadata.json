@@ -1,0 +1,11 @@
+{
+  "title": "Evaluate Reverse Polish Notation",
+  "slug": "evaluate-reverse-polish-notation",
+  "difficulty": "Medium",
+  "pattern": "Stack",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Math", "Stack"],
+  "video_id": "iu0082c4HDE",
+  "leetcode_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+  "neetcode_url": "https://neetcode.io/problems/evaluate-reverse-polish-notation"
+}

@@ -1,0 +1,29 @@
+{
+  "exercise": "balanced-binary-tree",
+  "cases": [
+    {
+      "uuid": "43399a95-b981-42d5-980f-8b5f502dae8b",
+      "description": "Example 1",
+      "input": {
+        "root": [1, 2, 3, null, null, 4]
+      },
+      "expected": true
+    },
+    {
+      "uuid": "5f498694-a3e5-4e04-b42a-aa6d5b6b2d5b",
+      "description": "Example 2",
+      "input": {
+        "root": [1, 2, 3, null, null, 4, null, 5]
+      },
+      "expected": false
+    },
+    {
+      "uuid": "d5b9e94f-f84f-4264-a6c0-57ab20d809c7",
+      "description": "Example 3",
+      "input": {
+        "root": []
+      },
+      "expected": true
+    }
+  ]
+}

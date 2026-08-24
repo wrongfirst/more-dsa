@@ -1,0 +1,14 @@
+{
+  "exercise": "two-sum-ii-input-array-is-sorted",
+  "cases": [
+    {
+      "uuid": "e6fe5044-6690-465d-8ab4-27eadddd624c",
+      "description": "Example 1",
+      "input": {
+        "numbers": [1, 2, 3, 4],
+        "target": 3
+      },
+      "expected": [1, 2]
+    }
+  ]
+}

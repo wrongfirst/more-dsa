@@ -1,0 +1,13 @@
+{
+  "exercise": "evaluate-reverse-polish-notation",
+  "cases": [
+    {
+      "uuid": "df8d4d33-e907-41f3-b445-a0dfe9919d6c",
+      "description": "Example 1",
+      "input": {
+        "tokens": ["2", "1", "+", "3", "*"]
+      },
+      "expected": 9
+    }
+  ]
+}

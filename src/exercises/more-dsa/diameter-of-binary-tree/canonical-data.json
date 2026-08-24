@@ -1,0 +1,21 @@
+{
+  "exercise": "diameter-of-binary-tree",
+  "cases": [
+    {
+      "uuid": "8985b253-0e82-4dc8-97ed-3e178a42add7",
+      "description": "Example 1",
+      "input": {
+        "root": [1, null, 2, 3, 4, 5]
+      },
+      "expected": 3
+    },
+    {
+      "uuid": "d35fb888-3c65-4a04-9517-dcc9fd23c634",
+      "description": "Example 2",
+      "input": {
+        "root": [1, 2, 3]
+      },
+      "expected": 2
+    }
+  ]
+}

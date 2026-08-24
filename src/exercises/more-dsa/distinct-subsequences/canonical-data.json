@@ -1,0 +1,23 @@
+{
+  "exercise": "distinct-subsequences",
+  "cases": [
+    {
+      "uuid": "8a282335-5c88-47c5-9a49-0a790edd7550",
+      "description": "Example 1",
+      "input": {
+        "s": "caaat",
+        "t": "cat"
+      },
+      "expected": 3
+    },
+    {
+      "uuid": "c27bfb3f-91df-4273-bffc-a18eba7ec94c",
+      "description": "Example 2",
+      "input": {
+        "s": "xxyxy",
+        "t": "xy"
+      },
+      "expected": 5
+    }
+  ]
+}

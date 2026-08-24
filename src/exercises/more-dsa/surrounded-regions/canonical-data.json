@@ -1,0 +1,21 @@
+{
+  "exercise": "surrounded-regions",
+  "cases": [
+    {
+      "uuid": "95209d7b-bd50-444d-b6fc-f5c9d4018688",
+      "description": "Example 1",
+      "input": {
+        "board": [["X", "X", "X", "X"], ["X", "X", "X", "X"], ["X", "X", "X", "X"], ["X", "O", "X", "X"]]
+      },
+      "expected": true
+    },
+    {
+      "uuid": "2c305b5e-2e94-4332-80cf-093313c2fae8",
+      "description": "Example 2",
+      "input": {
+        "board": [["X"]]
+      },
+      "expected": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "exercise": "binary-search",
+  "cases": [
+    {
+      "uuid": "d15a39b3-c73a-4b08-a98a-3874a917e18d",
+      "description": "Example 1",
+      "input": {
+        "nums": [-1, 0, 2, 4, 6, 8],
+        "target": 4
+      },
+      "expected": 3
+    },
+    {
+      "uuid": "af997135-ef77-4e9d-a733-af6c5654a773",
+      "description": "Example 2",
+      "input": {
+        "nums": [-1, 0, 2, 4, 6, 8],
+        "target": 3
+      },
+      "expected": -1
+    }
+  ]
+}

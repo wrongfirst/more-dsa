@@ -1,0 +1,11 @@
+{
+  "title": "Walls And Gates",
+  "slug": "walls-and-gates",
+  "difficulty": "Medium",
+  "pattern": "Graphs",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Breadth-First Search", "Matrix"],
+  "video_id": "e69C6xhiSQE",
+  "leetcode_url": "https://leetcode.com/problems/walls-and-gates/",
+  "neetcode_url": "https://neetcode.io/problems/islands-and-treasure"
+}

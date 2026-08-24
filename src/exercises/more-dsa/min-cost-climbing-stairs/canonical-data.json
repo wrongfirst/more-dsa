@@ -1,0 +1,21 @@
+{
+  "exercise": "min-cost-climbing-stairs",
+  "cases": [
+    {
+      "uuid": "7046e429-137e-46d6-8b3b-ef5a57453820",
+      "description": "Example 1",
+      "input": {
+        "cost": [3, 2, 3]
+      },
+      "expected": 2
+    },
+    {
+      "uuid": "2d7a129c-e7be-42bf-b111-91d9c17f960e",
+      "description": "Example 2",
+      "input": {
+        "cost": [4, 5, 3, 3, 2, 1, 1]
+      },
+      "expected": 4
+    }
+  ]
+}

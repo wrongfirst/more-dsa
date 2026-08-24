@@ -1,0 +1,11 @@
+{
+  "title": "Partition Labels",
+  "slug": "partition-labels",
+  "difficulty": "Medium",
+  "pattern": "Greedy",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Hash Table", "Two Pointers", "String", "Greedy"],
+  "video_id": "B7m8UmZE-vw",
+  "leetcode_url": "https://leetcode.com/problems/partition-labels/",
+  "neetcode_url": "https://neetcode.io/problems/partition-labels"
+}

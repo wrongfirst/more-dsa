@@ -1,0 +1,11 @@
+{
+  "title": "N Queens",
+  "slug": "n-queens",
+  "difficulty": "Hard",
+  "pattern": "Backtracking",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Backtracking"],
+  "video_id": "Ph95IHmRp5M",
+  "leetcode_url": "https://leetcode.com/problems/n-queens/",
+  "neetcode_url": "https://neetcode.io/problems/n-queens"
+}

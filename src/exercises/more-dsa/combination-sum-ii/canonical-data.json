@@ -1,0 +1,23 @@
+{
+  "exercise": "combination-sum-ii",
+  "cases": [
+    {
+      "uuid": "ece8619c-5391-4961-ad4f-ed7581f88478",
+      "description": "Example 1",
+      "input": {
+        "candidates": [1, 2, 2, 4, 5, 6, 9],
+        "target": 8
+      },
+      "expected": [[1, 2, 5], [2, 2, 4], [2, 6]]
+    },
+    {
+      "uuid": "0c08a120-c2b4-448e-857d-f48fe329d71a",
+      "description": "Example 2",
+      "input": {
+        "candidates": [1, 2, 3, 4, 5],
+        "target": 7
+      },
+      "expected": [[1, 2, 4], [2, 5], [3, 4]]
+    }
+  ]
+}

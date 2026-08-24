@@ -1,0 +1,11 @@
+{
+  "title": "Sliding Window Maximum",
+  "slug": "sliding-window-maximum",
+  "difficulty": "Hard",
+  "pattern": "Sliding Window",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Queue", "Sliding Window", "Heap (Priority Queue)", "Monotonic Queue"],
+  "video_id": "DfljaUwZsOk",
+  "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
+  "neetcode_url": "https://neetcode.io/problems/sliding-window-maximum"
+}

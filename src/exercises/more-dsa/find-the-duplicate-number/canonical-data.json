@@ -1,0 +1,21 @@
+{
+  "exercise": "find-the-duplicate-number",
+  "cases": [
+    {
+      "uuid": "d09cb7d4-0dda-4b6c-991c-8a7d9ba7b1a6",
+      "description": "Example 1",
+      "input": {
+        "nums": [1, 2, 3, 2, 2]
+      },
+      "expected": 2
+    },
+    {
+      "uuid": "e94c8337-e44b-42db-acda-047f3747ba85",
+      "description": "Example 2",
+      "input": {
+        "nums": [1, 2, 3, 4, 4]
+      },
+      "expected": 4
+    }
+  ]
+}

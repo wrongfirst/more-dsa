@@ -1,0 +1,11 @@
+{
+  "title": "Time Based Key Value Store",
+  "slug": "time-based-key-value-store",
+  "difficulty": "Medium",
+  "pattern": "Binary Search",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Hash Table", "String", "Binary Search", "Design"],
+  "video_id": "fu2cD_6E8Hw",
+  "leetcode_url": "https://leetcode.com/problems/time-based-key-value-store/",
+  "neetcode_url": "https://neetcode.io/problems/time-based-key-value-store"
+}

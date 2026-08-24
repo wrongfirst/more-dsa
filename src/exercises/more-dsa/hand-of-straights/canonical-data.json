@@ -1,0 +1,23 @@
+{
+  "exercise": "hand-of-straights",
+  "cases": [
+    {
+      "uuid": "aed57d32-8b5c-4a98-b731-e601da838a97",
+      "description": "Example 1",
+      "input": {
+        "hand": [1, 2, 4, 2, 3, 5, 3, 4],
+        "groupSize": 4
+      },
+      "expected": true
+    },
+    {
+      "uuid": "f8d005aa-1d40-4834-acb3-8682ae8053f1",
+      "description": "Example 2",
+      "input": {
+        "hand": [1, 2, 3, 3, 4, 5, 6, 7],
+        "groupSize": 4
+      },
+      "expected": false
+    }
+  ]
+}

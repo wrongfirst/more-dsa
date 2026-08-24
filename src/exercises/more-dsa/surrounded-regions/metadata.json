@@ -1,0 +1,11 @@
+{
+  "title": "Surrounded Regions",
+  "slug": "surrounded-regions",
+  "difficulty": "Medium",
+  "pattern": "Graphs",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Depth-First Search", "Breadth-First Search", "Union Find", "Matrix"],
+  "video_id": "9z2BunfoZ5Y",
+  "leetcode_url": "https://leetcode.com/problems/surrounded-regions/",
+  "neetcode_url": "https://neetcode.io/problems/surrounded-regions"
+}

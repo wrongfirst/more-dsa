@@ -1,0 +1,11 @@
+{
+  "title": "Design Twitter",
+  "slug": "design-twitter",
+  "difficulty": "Medium",
+  "pattern": "Heap / Priority Queue",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Hash Table", "Linked List", "Design", "Heap (Priority Queue)"],
+  "video_id": "pNichitDD2E",
+  "leetcode_url": "https://leetcode.com/problems/design-twitter/",
+  "neetcode_url": "https://neetcode.io/problems/design-twitter-feed"
+}

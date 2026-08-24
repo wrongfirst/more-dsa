@@ -1,0 +1,23 @@
+{
+  "exercise": "k-closest-points-to-origin",
+  "cases": [
+    {
+      "uuid": "1edbe1de-da4b-4c37-bb8b-5765c18d0cd9",
+      "description": "Example 1",
+      "input": {
+        "points": [[0, 2], [2, 2]],
+        "k": 1
+      },
+      "expected": [[0, 2]]
+    },
+    {
+      "uuid": "59486490-d807-4c9f-bbea-d481556e7f77",
+      "description": "Example 2",
+      "input": {
+        "points": [[0, 2], [2, 0], [2, 2]],
+        "k": 2
+      },
+      "expected": [[0, 2], [2, 0]]
+    }
+  ]
+}

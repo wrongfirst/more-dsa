@@ -1,0 +1,13 @@
+{
+  "exercise": "lru-cache",
+  "cases": [
+    {
+      "uuid": "68187a18-eb5f-4a24-811f-f50566165c99",
+      "description": "Example 1",
+      "input": {
+        "args": ["LRUCache", [2], "put", [1, 10], "get", [1], "put", [2, 20], "put", [3, 30], "get", [2], "get", [1]]
+      },
+      "expected": true
+    }
+  ]
+}

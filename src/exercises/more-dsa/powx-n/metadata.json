@@ -1,0 +1,11 @@
+{
+  "title": "Pow(x, n)",
+  "slug": "powx-n",
+  "difficulty": "Medium",
+  "pattern": "Math & Geometry",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Math", "Recursion"],
+  "video_id": "g9YQyYi4IQQ",
+  "leetcode_url": "https://leetcode.com/problems/powx-n/",
+  "neetcode_url": "https://neetcode.io/problems/pow-x-n"
+}

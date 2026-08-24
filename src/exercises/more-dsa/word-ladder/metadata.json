@@ -1,0 +1,11 @@
+{
+  "title": "Word Ladder",
+  "slug": "word-ladder",
+  "difficulty": "Hard",
+  "pattern": "Graphs",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Hash Table", "String", "Breadth-First Search"],
+  "video_id": "h9iTnkgv05E",
+  "leetcode_url": "https://leetcode.com/problems/word-ladder/",
+  "neetcode_url": "https://neetcode.io/problems/word-ladder"
+}

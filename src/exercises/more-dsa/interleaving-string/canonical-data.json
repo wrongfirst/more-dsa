@@ -1,0 +1,35 @@
+{
+  "exercise": "interleaving-string",
+  "cases": [
+    {
+      "uuid": "380ae19c-dd1f-4af6-9365-052d9b7f6056",
+      "description": "Example 1",
+      "input": {
+        "s1": "aaaa",
+        "s2": "bbbb",
+        "s3": "aabbbbaa"
+      },
+      "expected": true
+    },
+    {
+      "uuid": "d923d6ae-8fd4-4309-9bac-3c9bddfcdd0c",
+      "description": "Example 2",
+      "input": {
+        "s1": "",
+        "s2": "",
+        "s3": ""
+      },
+      "expected": true
+    },
+    {
+      "uuid": "e5618e59-f0ee-4095-b1b8-1f84ead2d8fb",
+      "description": "Example 3",
+      "input": {
+        "s1": "abc",
+        "s2": "xyz",
+        "s3": "abxzcy"
+      },
+      "expected": false
+    }
+  ]
+}

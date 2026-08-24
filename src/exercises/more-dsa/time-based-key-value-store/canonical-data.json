@@ -1,0 +1,13 @@
+{
+  "exercise": "time-based-key-value-store",
+  "cases": [
+    {
+      "uuid": "be1d82d8-7433-493e-8733-1a975b8c7ed3",
+      "description": "Example 1",
+      "input": {
+        "args": ["TimeMap", "set", ["alice", "happy", 1], "get", ["alice", 1], "get", ["alice", 2], "set", ["alice", "sad", 3], "get", ["alice", 3]]
+      },
+      "expected": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "exercise": "valid-parenthesis-string",
+  "cases": [
+    {
+      "uuid": "f08f93e1-b50b-48a2-91e8-9aa4452cfee1",
+      "description": "Example 1",
+      "input": {
+        "s": "((**)"
+      },
+      "expected": true
+    },
+    {
+      "uuid": "dd77bdc8-1e1f-4a93-9033-c9c2c2f8d1c6",
+      "description": "Example 2",
+      "input": {
+        "s": "(((*)"
+      },
+      "expected": false
+    }
+  ]
+}

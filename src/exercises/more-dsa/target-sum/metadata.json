@@ -1,0 +1,11 @@
+{
+  "title": "Target Sum",
+  "slug": "target-sum",
+  "difficulty": "Medium",
+  "pattern": "2-D Dynamic Programming",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Dynamic Programming", "Backtracking"],
+  "video_id": "dwMOrl85Xes",
+  "leetcode_url": "https://leetcode.com/problems/target-sum/",
+  "neetcode_url": "https://neetcode.io/problems/target-sum"
+}

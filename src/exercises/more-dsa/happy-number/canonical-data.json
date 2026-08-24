@@ -1,0 +1,21 @@
+{
+  "exercise": "happy-number",
+  "cases": [
+    {
+      "uuid": "cc91bc6d-21a0-4a51-9657-965b110eda63",
+      "description": "Example 1",
+      "input": {
+        "n": 100
+      },
+      "expected": true
+    },
+    {
+      "uuid": "fabb3da5-db8d-4375-b87e-008a5388e39b",
+      "description": "Example 2",
+      "input": {
+        "n": 101
+      },
+      "expected": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "exercise": "task-scheduler",
+  "cases": [
+    {
+      "uuid": "09296c2c-e4ba-46ce-ab92-e055c26626e8",
+      "description": "Example 1",
+      "input": {
+        "tasks": ["X", "X", "Y", "Y"],
+        "n": 2
+      },
+      "expected": 5
+    },
+    {
+      "uuid": "4dff5db3-8b3f-4d94-8d0e-14a73f5ea594",
+      "description": "Example 2",
+      "input": {
+        "tasks": ["A", "A", "A", "B", "C"],
+        "n": 3
+      },
+      "expected": 9
+    }
+  ]
+}

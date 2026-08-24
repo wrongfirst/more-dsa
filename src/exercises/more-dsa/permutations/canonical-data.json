@@ -1,0 +1,21 @@
+{
+  "exercise": "permutations",
+  "cases": [
+    {
+      "uuid": "5d69830d-6697-436b-a3f7-49c8bc77c82d",
+      "description": "Example 1",
+      "input": {
+        "nums": [1, 2, 3]
+      },
+      "expected": [[3, 2, 1], [2, 3, 1], [1, 3, 2], [3, 1, 2], [2, 1, 3], [1, 2, 3]]
+    },
+    {
+      "uuid": "a00e032f-74de-49f5-abb7-cc02e2bf2ce1",
+      "description": "Example 2",
+      "input": {
+        "nums": [7]
+      },
+      "expected": [[7]]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Min Stack",
+  "slug": "min-stack",
+  "difficulty": "Medium",
+  "pattern": "Stack",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Stack", "Design"],
+  "video_id": "qkLl7nAwDPo",
+  "leetcode_url": "https://leetcode.com/problems/min-stack/",
+  "neetcode_url": "https://neetcode.io/problems/minimum-stack"
+}

@@ -1,0 +1,21 @@
+{
+  "exercise": "jump-game-ii",
+  "cases": [
+    {
+      "uuid": "b4ad516a-0b65-44c5-a30d-f2b8f1bb74a6",
+      "description": "Example 1",
+      "input": {
+        "nums": [2, 4, 1, 1, 1, 1]
+      },
+      "expected": 2
+    },
+    {
+      "uuid": "7b5ad749-4d96-4123-a2f1-8be6c48d749f",
+      "description": "Example 2",
+      "input": {
+        "nums": [2, 1, 2, 1, 0]
+      },
+      "expected": 2
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "exercise": "count-good-nodes-in-binary-tree",
+  "cases": [
+    {
+      "uuid": "8127f139-8a02-416d-b9e7-b62c3801a37e",
+      "description": "Example 1",
+      "input": {
+        "root": [2, 1, 1, 3, null, 1, 5]
+      },
+      "expected": 3
+    },
+    {
+      "uuid": "3e71aa18-db39-4c42-955b-f0c89b8bc95c",
+      "description": "Example 2",
+      "input": {
+        "root": [3, 3, null, 4, 2]
+      },
+      "expected": 3
+    }
+  ]
+}

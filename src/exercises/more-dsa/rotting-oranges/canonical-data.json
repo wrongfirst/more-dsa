@@ -1,0 +1,21 @@
+{
+  "exercise": "rotting-oranges",
+  "cases": [
+    {
+      "uuid": "8534219d-fa55-4b58-9b5f-838e79e4b8d7",
+      "description": "Example 1",
+      "input": {
+        "grid": [[1, 1, 0], [0, 1, 1], [0, 1, 2]]
+      },
+      "expected": true
+    },
+    {
+      "uuid": "17917ad7-42c5-4b70-8af8-5cc748c80086",
+      "description": "Example 2",
+      "input": {
+        "grid": [[1, 0, 1], [0, 2, 0], [1, 0, 1]]
+      },
+      "expected": true
+    }
+  ]
+}

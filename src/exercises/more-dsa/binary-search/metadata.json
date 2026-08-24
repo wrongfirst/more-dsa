@@ -1,0 +1,11 @@
+{
+  "title": "Binary Search",
+  "slug": "binary-search",
+  "difficulty": "Easy",
+  "pattern": "Binary Search",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Binary Search"],
+  "video_id": "s4DPM8ct1pI",
+  "leetcode_url": "https://leetcode.com/problems/binary-search/",
+  "neetcode_url": "https://neetcode.io/problems/binary-search"
+}

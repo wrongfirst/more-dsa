@@ -1,0 +1,21 @@
+{
+  "exercise": "single-number",
+  "cases": [
+    {
+      "uuid": "1a0cc770-e037-4bc3-85c0-dc2ef4792a15",
+      "description": "Example 1",
+      "input": {
+        "nums": [3, 2, 3]
+      },
+      "expected": 2
+    },
+    {
+      "uuid": "c7dc0379-6047-4b1a-ad71-e59beb766507",
+      "description": "Example 2",
+      "input": {
+        "nums": [7, 6, 6, 7, 8]
+      },
+      "expected": 8
+    }
+  ]
+}

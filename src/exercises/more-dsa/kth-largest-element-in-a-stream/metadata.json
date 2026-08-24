@@ -1,0 +1,11 @@
+{
+  "title": "Kth Largest Element In a Stream",
+  "slug": "kth-largest-element-in-a-stream",
+  "difficulty": "Easy",
+  "pattern": "Heap / Priority Queue",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Tree", "Design", "Binary Search Tree", "Heap (Priority Queue)", "Binary Tree", "Data Stream"],
+  "video_id": "hOjcdrqMoQ8",
+  "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+  "neetcode_url": "https://neetcode.io/problems/kth-largest-integer-in-a-stream"
+}

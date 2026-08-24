@@ -1,0 +1,23 @@
+{
+  "exercise": "multiply-strings",
+  "cases": [
+    {
+      "uuid": "0441b791-5bfa-48db-8350-a9d9aea5d3e4",
+      "description": "Example 1",
+      "input": {
+        "num1": "3",
+        "num2": "4"
+      },
+      "expected": "12"
+    },
+    {
+      "uuid": "98ef1dbc-9214-4736-bd37-08e620f369cb",
+      "description": "Example 2",
+      "input": {
+        "num1": "111",
+        "num2": "222"
+      },
+      "expected": "24642"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "exercise": "copy-list-with-random-pointer",
+  "cases": [
+    {
+      "uuid": "3883cb78-c62f-47aa-9c40-737a690b7b76",
+      "description": "Example 1",
+      "input": {
+        "head": [[3, null], [7, 3], [4, 0], [5, 1]]
+      },
+      "expected": true
+    },
+    {
+      "uuid": "332e222b-1679-430d-9996-dcb3b8560171",
+      "description": "Example 2",
+      "input": {
+        "head": [[1, null], [2, 2], [3, 2]]
+      },
+      "expected": true
+    }
+  ]
+}

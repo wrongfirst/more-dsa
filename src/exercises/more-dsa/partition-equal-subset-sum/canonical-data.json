@@ -1,0 +1,21 @@
+{
+  "exercise": "partition-equal-subset-sum",
+  "cases": [
+    {
+      "uuid": "0ba65b44-575f-4339-ad39-6d3ba4e11bd5",
+      "description": "Example 1",
+      "input": {
+        "nums": [1, 2, 3, 4]
+      },
+      "expected": true
+    },
+    {
+      "uuid": "c3c0274a-cc32-417e-bc30-3e9a899f412a",
+      "description": "Example 2",
+      "input": {
+        "nums": [1, 2, 3, 4, 5]
+      },
+      "expected": false
+    }
+  ]
+}

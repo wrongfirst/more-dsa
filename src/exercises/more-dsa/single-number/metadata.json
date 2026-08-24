@@ -1,0 +1,11 @@
+{
+  "title": "Single Number",
+  "slug": "single-number",
+  "difficulty": "Easy",
+  "pattern": "Bit Manipulation",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Bit Manipulation"],
+  "video_id": "qMPX1AOa83k",
+  "leetcode_url": "https://leetcode.com/problems/single-number/",
+  "neetcode_url": "https://neetcode.io/problems/single-number"
+}

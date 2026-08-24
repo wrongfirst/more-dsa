@@ -1,0 +1,29 @@
+{
+  "exercise": "reverse-integer",
+  "cases": [
+    {
+      "uuid": "735947b3-07c4-4dda-b58b-0682fa3840a1",
+      "description": "Example 1",
+      "input": {
+        "x": 1234
+      },
+      "expected": 4321
+    },
+    {
+      "uuid": "fd83041f-af15-4cee-8e29-dfbe4efe2581",
+      "description": "Example 2",
+      "input": {
+        "x": -1234
+      },
+      "expected": -4321
+    },
+    {
+      "uuid": "aab29349-9610-490d-b053-7319a568924d",
+      "description": "Example 3",
+      "input": {
+        "x": 1234236467
+      },
+      "expected": 0
+    }
+  ]
+}

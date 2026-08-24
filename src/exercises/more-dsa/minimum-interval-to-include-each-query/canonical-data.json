@@ -1,0 +1,14 @@
+{
+  "exercise": "minimum-interval-to-include-each-query",
+  "cases": [
+    {
+      "uuid": "c1a03901-5cda-4337-84a9-94229c8b8229",
+      "description": "Example 1",
+      "input": {
+        "intervals": [[1, 3], [2, 3], [3, 7], [6, 6]],
+        "queries": [2, 3, 1, 7, 6, 8]
+      },
+      "expected": [2, 2, 3, 5, 1, -1]
+    }
+  ]
+}

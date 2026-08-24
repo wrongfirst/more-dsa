@@ -1,0 +1,13 @@
+{
+  "exercise": "design-twitter",
+  "cases": [
+    {
+      "uuid": "cb82ffe3-aa46-46ba-a99b-540a76c768b6",
+      "description": "Example 1",
+      "input": {
+        "args": ["Twitter", "postTweet", [1, 10], "postTweet", [2, 20], "getNewsFeed", [1], "getNewsFeed", [2], "follow", [1, 2], "getNewsFeed", [1], "getNewsFeed", [2], "unfollow", [1, 2], "getNewsFeed", [1]]
+      },
+      "expected": true
+    }
+  ]
+}

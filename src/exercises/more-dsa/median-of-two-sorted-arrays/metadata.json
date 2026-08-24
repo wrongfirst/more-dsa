@@ -1,0 +1,11 @@
+{
+  "title": "Median of Two Sorted Arrays",
+  "slug": "median-of-two-sorted-arrays",
+  "difficulty": "Hard",
+  "pattern": "Binary Search",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Binary Search", "Divide and Conquer"],
+  "video_id": "q6IEA26hvXc",
+  "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "neetcode_url": "https://neetcode.io/problems/median-of-two-sorted-arrays"
+}

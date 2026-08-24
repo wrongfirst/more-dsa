@@ -1,0 +1,23 @@
+{
+  "exercise": "kth-largest-element-in-an-array",
+  "cases": [
+    {
+      "uuid": "eb896338-853c-4852-a421-ec6f636ace48",
+      "description": "Example 1",
+      "input": {
+        "nums": [2, 3, 1, 4, 5],
+        "k": 2
+      },
+      "expected": 4
+    },
+    {
+      "uuid": "08712629-26ec-49fe-8804-21105a20d17b",
+      "description": "Example 2",
+      "input": {
+        "nums": [2, 3, 1, 1, 4, 5, 5],
+        "k": 3
+      },
+      "expected": 4
+    }
+  ]
+}

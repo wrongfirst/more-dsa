@@ -1,0 +1,21 @@
+{
+  "exercise": "subsets",
+  "cases": [
+    {
+      "uuid": "ab5e29e1-70c8-4ff5-85fc-2b324bbe3151",
+      "description": "Example 1",
+      "input": {
+        "nums": [1, 2, 3]
+      },
+      "expected": [[1, 2, 3], [1, 2], [1, 3], [1], [2, 3], [2], [3], []]
+    },
+    {
+      "uuid": "312d95c9-469e-4101-a142-7f0143d78a89",
+      "description": "Example 2",
+      "input": {
+        "nums": [7]
+      },
+      "expected": [[7], []]
+    }
+  ]
+}

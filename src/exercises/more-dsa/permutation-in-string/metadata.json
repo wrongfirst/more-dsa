@@ -1,0 +1,11 @@
+{
+  "title": "Permutation In String",
+  "slug": "permutation-in-string",
+  "difficulty": "Medium",
+  "pattern": "Sliding Window",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Hash Table", "Two Pointers", "String", "Sliding Window"],
+  "video_id": "UbyhOgBN834",
+  "leetcode_url": "https://leetcode.com/problems/permutation-in-string/",
+  "neetcode_url": "https://neetcode.io/problems/permutation-string"
+}

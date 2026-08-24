@@ -1,0 +1,11 @@
+{
+  "title": "Daily Temperatures",
+  "slug": "daily-temperatures",
+  "difficulty": "Medium",
+  "pattern": "Stack",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Stack", "Monotonic Stack"],
+  "video_id": "cTBiBSnjO3c",
+  "leetcode_url": "https://leetcode.com/problems/daily-temperatures/",
+  "neetcode_url": "https://neetcode.io/problems/daily-temperatures"
+}

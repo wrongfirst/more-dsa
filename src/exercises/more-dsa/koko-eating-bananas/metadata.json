@@ -1,0 +1,11 @@
+{
+  "title": "Koko Eating Bananas",
+  "slug": "koko-eating-bananas",
+  "difficulty": "Medium",
+  "pattern": "Binary Search",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Binary Search"],
+  "video_id": "U2SozAs9RzA",
+  "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
+  "neetcode_url": "https://neetcode.io/problems/eating-bananas"
+}

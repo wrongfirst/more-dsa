@@ -1,0 +1,11 @@
+{
+  "title": "Minimum Interval to Include Each Query",
+  "slug": "minimum-interval-to-include-each-query",
+  "difficulty": "Hard",
+  "pattern": "Intervals",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Binary Search", "Sweep Line", "Sorting", "Heap (Priority Queue)"],
+  "video_id": "5hQ5WWW5awQ",
+  "leetcode_url": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
+  "neetcode_url": "https://neetcode.io/problems/minimum-interval-including-query"
+}

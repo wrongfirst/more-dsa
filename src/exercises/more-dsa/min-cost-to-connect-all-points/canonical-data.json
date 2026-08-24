@@ -1,0 +1,13 @@
+{
+  "exercise": "min-cost-to-connect-all-points",
+  "cases": [
+    {
+      "uuid": "1b825c80-34e6-407a-acc2-6473576fa11d",
+      "description": "Example 1",
+      "input": {
+        "points": [[0, 0], [2, 2], [3, 3], [2, 4], [4, 2]]
+      },
+      "expected": 10
+    }
+  ]
+}

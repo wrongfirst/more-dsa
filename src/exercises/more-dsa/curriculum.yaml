@@ -1,0 +1,109 @@
+chapters:
+  "Arrays & Hashing":
+    - valid-sudoku
+
+  "Two Pointers":
+    - two-sum-ii-input-array-is-sorted
+    - trapping-rain-water
+
+  "Sliding Window":
+    - permutation-in-string
+    - sliding-window-maximum
+
+  "Stack":
+    - car-fleet
+    - daily-temperatures
+    - evaluate-reverse-polish-notation
+    - min-stack
+    - largest-rectangle-in-histogram
+
+  "Binary Search":
+    - binary-search
+    - koko-eating-bananas
+    - search-a-2d-matrix
+    - time-based-key-value-store
+    - median-of-two-sorted-arrays
+
+  "Linked List":
+    - add-two-numbers
+    - copy-list-with-random-pointer
+    - find-the-duplicate-number
+    - lru-cache
+    - reverse-nodes-in-k-group
+
+  "Trees":
+    - balanced-binary-tree
+    - diameter-of-binary-tree
+    - binary-tree-right-side-view
+    - count-good-nodes-in-binary-tree
+
+  "Heap / Priority Queue":
+    - kth-largest-element-in-a-stream
+    - last-stone-weight
+    - design-twitter
+    - k-closest-points-to-origin
+    - kth-largest-element-in-an-array
+    - task-scheduler
+
+  "Backtracking":
+    - combination-sum-ii
+    - generate-parentheses
+    - letter-combinations-of-a-phone-number
+    - palindrome-partitioning
+    - permutations
+    - subsets
+    - subsets-ii
+    - n-queens
+
+  "Graphs":
+    - course-schedule-ii
+    - max-area-of-island
+    - redundant-connection
+    - rotting-oranges
+    - surrounded-regions
+    - walls-and-gates
+    - word-ladder
+
+  "Advanced Graphs":
+    - cheapest-flights-within-k-stops
+    - min-cost-to-connect-all-points
+    - network-delay-time
+    - reconstruct-itinerary
+    - swim-in-rising-water
+
+  "1-D Dynamic Programming":
+    - min-cost-climbing-stairs
+    - partition-equal-subset-sum
+
+  "2-D Dynamic Programming":
+    - best-time-to-buy-and-sell-stock-with-cooldown
+    - coin-change-ii
+    - edit-distance
+    - interleaving-string
+    - target-sum
+    - burst-balloons
+    - distinct-subsequences
+    - longest-increasing-path-in-a-matrix
+    - regular-expression-matching
+
+  "Greedy":
+    - gas-station
+    - hand-of-straights
+    - jump-game-ii
+    - merge-triplets-to-form-target-triplet
+    - partition-labels
+    - valid-parenthesis-string
+
+  "Intervals":
+    - minimum-interval-to-include-each-query
+
+  "Math & Geometry":
+    - happy-number
+    - plus-one
+    - detect-squares
+    - multiply-strings
+    - powx-n
+
+  "Bit Manipulation":
+    - single-number
+    - reverse-integer

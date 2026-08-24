@@ -1,0 +1,11 @@
+{
+  "title": "Largest Rectangle In Histogram",
+  "slug": "largest-rectangle-in-histogram",
+  "difficulty": "Hard",
+  "pattern": "Stack",
+  "classifications": ["neetcode250", "neetcode150"],
+  "topics": ["Array", "Stack", "Monotonic Stack"],
+  "video_id": "zx5Sw9130L0",
+  "leetcode_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+  "neetcode_url": "https://neetcode.io/problems/largest-rectangle-in-histogram"
+}

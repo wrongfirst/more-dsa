@@ -1,0 +1,25 @@
+{
+  "exercise": "network-delay-time",
+  "cases": [
+    {
+      "uuid": "cc2ee6e9-2be4-4a39-af2d-73314c2bc684",
+      "description": "Example 1",
+      "input": {
+        "times": [[1, 2, 1], [2, 3, 1], [1, 4, 4], [3, 4, 1]],
+        "n": 4,
+        "k": 1
+      },
+      "expected": true
+    },
+    {
+      "uuid": "8c5315d3-bedb-4e53-9589-8368ad1f0d12",
+      "description": "Example 2",
+      "input": {
+        "times": [[1, 2, 1], [2, 3, 1]],
+        "n": 3,
+        "k": 2
+      },
+      "expected": true
+    }
+  ]
+}
