@@ -1,109 +1,109 @@
 chapters:
   "Arrays & Hashing":
-    - valid-sudoku
+    - valid_sudoku
 
   "Two Pointers":
-    - two-sum-ii-input-array-is-sorted
-    - trapping-rain-water
+    - two_sum_ii_input_array_is_sorted
+    - trapping_rain_water
 
   "Sliding Window":
-    - permutation-in-string
-    - sliding-window-maximum
+    - permutation_in_string
+    - sliding_window_maximum
 
   "Stack":
-    - car-fleet
-    - daily-temperatures
-    - evaluate-reverse-polish-notation
-    - min-stack
-    - largest-rectangle-in-histogram
+    - car_fleet
+    - daily_temperatures
+    - evaluate_reverse_polish_notation
+    - min_stack
+    - largest_rectangle_in_histogram
 
   "Binary Search":
-    - binary-search
-    - koko-eating-bananas
-    - search-a-2d-matrix
-    - time-based-key-value-store
-    - median-of-two-sorted-arrays
+    - binary_search
+    - koko_eating_bananas
+    - search_a_2d_matrix
+    - time_based_key_value_store
+    - median_of_two_sorted_arrays
 
   "Linked List":
-    - add-two-numbers
-    - copy-list-with-random-pointer
-    - find-the-duplicate-number
-    - lru-cache
-    - reverse-nodes-in-k-group
+    - add_two_numbers
+    - copy_list_with_random_pointer
+    - find_the_duplicate_number
+    - lru_cache
+    - reverse_nodes_in_k_group
 
   "Trees":
-    - balanced-binary-tree
-    - diameter-of-binary-tree
-    - binary-tree-right-side-view
-    - count-good-nodes-in-binary-tree
+    - balanced_binary_tree
+    - diameter_of_binary_tree
+    - binary_tree_right_side_view
+    - count_good_nodes_in_binary_tree
 
   "Heap / Priority Queue":
-    - kth-largest-element-in-a-stream
-    - last-stone-weight
-    - design-twitter
-    - k-closest-points-to-origin
-    - kth-largest-element-in-an-array
-    - task-scheduler
+    - kth_largest_element_in_a_stream
+    - last_stone_weight
+    - design_twitter
+    - k_closest_points_to_origin
+    - kth_largest_element_in_an_array
+    - task_scheduler
 
   "Backtracking":
-    - combination-sum-ii
-    - generate-parentheses
-    - letter-combinations-of-a-phone-number
-    - palindrome-partitioning
+    - combination_sum_ii
+    - generate_parentheses
+    - letter_combinations_of_a_phone_number
+    - palindrome_partitioning
     - permutations
     - subsets
-    - subsets-ii
-    - n-queens
+    - subsets_ii
+    - n_queens
 
   "Graphs":
-    - course-schedule-ii
-    - max-area-of-island
-    - redundant-connection
-    - rotting-oranges
-    - surrounded-regions
-    - walls-and-gates
-    - word-ladder
+    - course_schedule_ii
+    - max_area_of_island
+    - redundant_connection
+    - rotting_oranges
+    - surrounded_regions
+    - walls_and_gates
+    - word_ladder
 
   "Advanced Graphs":
-    - cheapest-flights-within-k-stops
-    - min-cost-to-connect-all-points
-    - network-delay-time
-    - reconstruct-itinerary
-    - swim-in-rising-water
+    - cheapest_flights_within_k_stops
+    - min_cost_to_connect_all_points
+    - network_delay_time
+    - reconstruct_itinerary
+    - swim_in_rising_water
 
   "1-D Dynamic Programming":
-    - min-cost-climbing-stairs
-    - partition-equal-subset-sum
+    - min_cost_climbing_stairs
+    - partition_equal_subset_sum
 
   "2-D Dynamic Programming":
-    - best-time-to-buy-and-sell-stock-with-cooldown
-    - coin-change-ii
-    - edit-distance
-    - interleaving-string
-    - target-sum
-    - burst-balloons
-    - distinct-subsequences
-    - longest-increasing-path-in-a-matrix
-    - regular-expression-matching
+    - best_time_to_buy_and_sell_stock_with_cooldown
+    - coin_change_ii
+    - edit_distance
+    - interleaving_string
+    - target_sum
+    - burst_balloons
+    - distinct_subsequences
+    - longest_increasing_path_in_a_matrix
+    - regular_expression_matching
 
   "Greedy":
-    - gas-station
-    - hand-of-straights
-    - jump-game-ii
-    - merge-triplets-to-form-target-triplet
-    - partition-labels
-    - valid-parenthesis-string
+    - gas_station
+    - hand_of_straights
+    - jump_game_ii
+    - merge_triplets_to_form_target_triplet
+    - partition_labels
+    - valid_parenthesis_string
 
   "Intervals":
-    - minimum-interval-to-include-each-query
+    - minimum_interval_to_include_each_query
 
   "Math & Geometry":
-    - happy-number
-    - plus-one
-    - detect-squares
-    - multiply-strings
-    - powx-n
+    - happy_number
+    - plus_one
+    - detect_squares
+    - multiply_strings
+    - powx_n
 
   "Bit Manipulation":
-    - single-number
-    - reverse-integer
+    - single_number
+    - reverse_integer
