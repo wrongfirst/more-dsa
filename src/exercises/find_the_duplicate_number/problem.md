@@ -26,6 +26,3 @@ Follow-up: Can you solve the problem **without** modifying the array `nums` and 
 * `1 <= n <= 10,000`
 * `nums.length == n + 1`
 * `1 <= nums[i] <= n`
-
-
-<br>

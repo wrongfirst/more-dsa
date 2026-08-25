@@ -19,6 +19,3 @@ Explanation: ((1 + 2) * 3) - 4 = 5
 **Constraints:**
 * `1 <= tokens.length <= 1000`.
 * tokens[i] is `"+"`, `"-"`, `"*"`, or `"/"`, or a string representing an integer in the range `[-200, 200]`.
-
-
-<br>

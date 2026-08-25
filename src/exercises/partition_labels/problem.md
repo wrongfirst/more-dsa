@@ -24,6 +24,3 @@ Output: [6]
 
 **Constraints:**
 * `1 <= s.length <= 100`
-
-
-<br>

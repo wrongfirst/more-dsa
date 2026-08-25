@@ -28,6 +28,3 @@ Output: 2
 **Constraints:**
 * `1 <= nums.length <= 1000`
 * `0 <= nums[i] <= 100`
-
-
-<br>

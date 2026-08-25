@@ -20,6 +20,3 @@ You may return the answer in **any order**.
 
 **Constraints:**
 * `1 <= n <= 7`
-
-
-<br>

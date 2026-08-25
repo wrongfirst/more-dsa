@@ -24,6 +24,3 @@ Explanation: There are 3 different ways to sum the input numbers to get a sum of
 * `1 <= nums.length <= 20`
 * `0 <= nums[i] <= 1000`
 * `-1000 <= target <= 1000`
-
-
-<br>

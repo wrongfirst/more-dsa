@@ -47,6 +47,3 @@ Output: [
 * `n == grid[i].length`
 * `1 <= m, n <= 100`
 * `grid[i][j]` is one of `{-1, 0, 2147483647}`
-
-
-<br>

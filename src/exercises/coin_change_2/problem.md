@@ -26,11 +26,7 @@ Input: amount = 7, coins = [2,4]
 Output: 0
 ```
 
-
 **Constraints:**
 * `1 <= coins.length <= 100`
 * `1 <= coins[i] <= 5000`
 * `0 <= amount <= 5000`
-
-
-<br>

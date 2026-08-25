@@ -33,6 +33,3 @@ Output: 1
 **Constraints:**
 * `1 <= stones.length <= 20`
 * `1 <= stones[i] <= 100`
-
-
-<br>

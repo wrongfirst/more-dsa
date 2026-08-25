@@ -30,6 +30,3 @@ Output: [["Q"]]
 
 **Constraints:**
 * `1 <= n <= 8`
-
-
-<br>

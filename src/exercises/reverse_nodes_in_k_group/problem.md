@@ -30,6 +30,3 @@ Output: [3,2,1,4,5]
 * The length of the linked list is `n`.
 * `1 <= k <= n <= 5000`
 * `0 <= Node.val <= 100`
-
-
-<br>

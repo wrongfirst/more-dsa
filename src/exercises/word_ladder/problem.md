@@ -30,6 +30,3 @@ Explanation: There is no possible transformation sequence from `"cat"` to `"sag"
 **Constraints:**
 * `1 <= beginWord.length <= 10`
 * `1 <= wordList.length <= 100`
-
-
-<br>

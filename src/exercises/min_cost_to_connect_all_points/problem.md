@@ -18,6 +18,3 @@ Output: 10
 * `1 <= points.length <= 1000`
 * `-1,000,000 <= xi, yi <= 1,000,000`
 * All pairs `(xi, yi)` are distinct.
-
-
-<br>

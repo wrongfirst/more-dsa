@@ -23,6 +23,3 @@ Output: 8
 **Constraints:**
 * `1 <= nums.length <= 10000`
 * `-10000 <= nums[i] <= 10000`
-
-
-<br>

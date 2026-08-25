@@ -21,6 +21,3 @@ Output: [[],[7], [7,7]]
 **Constraints:**
 * `1 <= nums.length <= 11`
 * `-20 <= nums[i] <= 20`
-
-
-<br>

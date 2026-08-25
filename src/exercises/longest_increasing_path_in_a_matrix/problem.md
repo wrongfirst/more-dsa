@@ -30,6 +30,3 @@ Explanation: The longest increasing path is `[1, 2, 3, 4, 5, 6, 7]`.
 
 **Constraints:**
 * `1 <= matrix.length, matrix[i].length <= 100`
-
-
-<br>

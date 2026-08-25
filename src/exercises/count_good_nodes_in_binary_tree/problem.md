@@ -22,10 +22,6 @@ Input: root = [1,2,-1,3,4]
 Output: 4
 ```
 
-
 **Constraints:**
 * `1 <= number of nodes in the tree <= 100,000`
 * `-100 <= Node.val <= 100`
-
-
-<br>

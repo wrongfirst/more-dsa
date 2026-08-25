@@ -28,6 +28,3 @@ timeMap.get("alice", 3);           // return "sad"
 * `key` and `value` only include lowercase English letters and digits.
 * `0 <= timestamp <= 10^7`
 * All the timestamps of `set` are strictly increasing.
-
-
-<br>

@@ -22,12 +22,8 @@ Explanation:
 - Query = 6: The interval `[6,6]` is the smallest one containing 6, it's length is 1.
 - Query = 8: There is no interval containing 8.
 
-
 **Constraints:**
 * `1 <= intervals.length <= 100000`
 * `1 <= queries.length <= 100000`
 * `1 <= left_i <= right_i <= 10000000`
 * `1 <= queries[j] <= 10000000`
-
-
-<br>

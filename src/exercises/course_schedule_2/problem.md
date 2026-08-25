@@ -30,6 +30,3 @@ Explanation: It's impossible to finish all courses.
 * `1 <= numCourses <= 1000`
 * `0 <= prerequisites.length <= 1000`
 * All `prerequisite` pairs are **unique**.
-
-
-<br>

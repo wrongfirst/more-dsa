@@ -36,6 +36,3 @@ Explanation:
 **Constraints:**
 * `0 <= word1.length, word2.length <= 100`
 * `word1` and `word2` consist of lowercase English letters.
-
-
-<br>

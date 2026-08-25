@@ -37,6 +37,3 @@ twitter.getNewsFeed(1);   // User 1's news feed should only contain their own tw
 * `0 <= tweetId <= 10^4`
 * All the tweets have **unique** IDs.
 * At most `3 * 10^4` calls will be made to `postTweet`, `getNewsFeed`, `follow`, and `unfollow`.
-
-
-<br>

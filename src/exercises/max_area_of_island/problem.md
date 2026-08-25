@@ -24,6 +24,3 @@ Explanation: `1`'s cannot be connected diagonally, so the maximum area of the is
 
 **Constraints:**
 * `1 <= grid.length, grid[i].length <= 50`
-
-
-<br>

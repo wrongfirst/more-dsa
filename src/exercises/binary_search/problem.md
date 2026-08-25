@@ -24,6 +24,3 @@ Output: -1
 * `1 <= nums.length <= 10000`.
 * `-10000 < nums[i], target < 10000`
 * All the integers in `nums` are **unique**.
-
-
-<br>

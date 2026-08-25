@@ -25,6 +25,3 @@ Output: "24642"
 **Constraints:**
 * `1 <= num1.length, num2.length <= 200`
 * `num1` and `num2` consist of digits only.
-
-
-<br>

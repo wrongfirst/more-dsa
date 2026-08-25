@@ -23,6 +23,3 @@ Window position            Max
 * `1 <= nums.length <= 100,000`
 * `-10,000 <= nums[i] <= 10,000`
 * `1 <= k <= nums.length`
-
-
-<br>

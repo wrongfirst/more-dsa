@@ -32,6 +32,3 @@ Explanation: Start at index = `0`.
 **Constraints:**
 * `2 <= cost.length <= 100`
 * `0 <= cost[i] <= 100`
-
-
-<br>

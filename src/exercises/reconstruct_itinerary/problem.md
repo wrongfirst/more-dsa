@@ -36,6 +36,3 @@ Explanation: Another possible reconstruction is `["JFK","SEA","JFK","HOU","JFK"]
 **Constraints:**
 * `1 <= tickets.length <= 300`
 * `from_i != to_i`
-
-
-<br>

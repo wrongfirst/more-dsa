@@ -34,6 +34,3 @@ Output: 0.12500
 * `n` is an integer.
 * Either `x` is not zero or `n > 0`.
 * `-10^4 <= x^n <= 10^4`
-
-
-<br>

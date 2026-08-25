@@ -27,6 +27,3 @@ Output: 2
 **Constraints:**
 * `1 <= number of nodes in the tree <= 100`
 * `-100 <= Node.val <= 100`
-
-
-<br>

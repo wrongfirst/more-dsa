@@ -29,6 +29,3 @@ Output: [8,1]
 **Constraints:**
 * `1 <= l1.length, l2.length <= 100`.
 * `0 <= Node.val <= 9`
-
-
-<br>

@@ -50,6 +50,3 @@ Explanation: There are two 1's in the top-left 3x3 sub-box.
 * `board.length == 9`
 * `board[i].length == 9`
 * `board[i][j]` is a digit `1-9` or `'.'`.
-
-
-<br>

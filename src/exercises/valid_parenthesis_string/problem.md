@@ -31,6 +31,3 @@ Explanation: The string is not valid because there is an extra `'('` at the begi
 
 **Constraints:**
 * `1 <= s.length <= 100`
-
-
-<br>

@@ -43,6 +43,3 @@ So no starting station can complete the circuit, and the answer is -1.
 **Constraints:**
 * `1 <= gas.length == cost.length <= 100000`
 * `0 <= gas[i], cost[i] <= 1000`
-
-
-<br>

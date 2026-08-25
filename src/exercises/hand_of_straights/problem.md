@@ -28,6 +28,3 @@ Explanation: The closest we can get is `[1,2,3,4]` and `[3,5,6,7]`, but the card
 * `1 <= hand.length <= 10000`
 * `0 <= hand[i] <= 1000`
 * `1 <= groupSize <= hand.length`
-
-
-<br>

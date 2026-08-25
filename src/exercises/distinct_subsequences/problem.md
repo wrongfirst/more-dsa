@@ -30,10 +30,6 @@ Explanation: There are 5 ways you can generate `"xy"` from `s`.
 * x(x)yx(y)
 * xxy(x)(y)
 
-
 **Constraints:**
 * `1 <= s.length, t.length <= 1000`
 * `s` and `t` consist of English letters.
-
-
-<br>

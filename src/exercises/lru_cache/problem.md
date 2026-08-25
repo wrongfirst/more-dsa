@@ -32,6 +32,3 @@ lRUCache.get(1);      // return -1 (not found)
 * `0 <= key <= 10^4`
 * `0 <= value <= 10^5`
 * At most `2 * 10^5` calls will be made to `get` and `put`.
-
-
-<br>

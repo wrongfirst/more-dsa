@@ -6,8 +6,6 @@ You may swim either horizontally or vertically in the grid between two adjacent 
 
 Starting from the top left square `(0, 0)`, return the minimum amount of time it will take until it is possible to reach the bottom right square `(n - 1, n - 1)`.
 
-<br>
-
 **Example 1:**
 
 ![](https://imagedelivery.net/CLfkmk9Wzy8_9HRyug4EVA/11a45dd8-625f-4be6-9fbb-a3b6ffcc1100/public)
@@ -19,8 +17,6 @@ Output: 3
 ```
 
 Explanation: For a path to exist to the bottom right square `grid[1][1]` the water elevation must be at least `3`. At time `t = 3`, the water level is `3`.
-
-<br>
 
 **Example 2:**
 
@@ -39,12 +35,7 @@ Output: 8
 
 Explanation: The water level must be at least `8` to reach the bottom right square. The path is `[0, 1, 2, 4, 8, 7, 6]`.
 
-<br>
-
 **Constraints:**
 * `grid.length == grid[i].length`
 * `1 <= grid.length <= 50`
 * `0 <= grid[i][j] < n^2`
-
-
-<br>

@@ -29,6 +29,3 @@ Explanation: A possible sequence is: A -> B -> C -> Idle -> A -> Idle -> Idle ->
 **Constraints:**
 * `1 <= tasks.length <= 10000`
 * `0 <= n <= 100`
-
-
-<br>

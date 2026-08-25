@@ -26,6 +26,3 @@ Output: 25
 * `1 <= piles.length <= 1,000`
 * `piles.length <= h <= 1,000,000`
 * `1 <= piles[i] <= 1,000,000,000`
-
-
-<br>

@@ -29,6 +29,3 @@ minStack.getMin(); // return 1
 **Constraints:**
 * `-2^31 <= val <= 2^31 - 1`.
 * `pop`, `top` and `getMin` will always be called on **non-empty** stacks.
-
-
-<br>

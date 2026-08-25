@@ -30,8 +30,6 @@ Output: [
 
 Explanation: The bottom `'O'` region is not captured because it touches the edge of the board, so it cannot be surrounded.
 
-<br>
-
 **Example 2:**
 
 ```java
@@ -43,6 +41,3 @@ Output: [["X"]]
 **Constraints:**
 * `1 <= board.length, board[i].length <= 200`
 * `board[i][j]` is `'X'` or `'O'`.
-
-
-<br>

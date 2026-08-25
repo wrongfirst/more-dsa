@@ -20,10 +20,6 @@ Input: digits = [9,9,9]
 Output: [1,0,0,0]
 ```
 
-
 **Constraints:**
 * `1 <= digits.length <= 100`
 * `0 <= digits[i] <= 9`
-
-
-<br>

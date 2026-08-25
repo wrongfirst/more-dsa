@@ -29,6 +29,3 @@ Output: false
 **Constraints:**
 * `1 <= triplets.length <= 1000`
 * `1 <= ai, bi, ci, x, y, z <= 100`
-
-
-<br>

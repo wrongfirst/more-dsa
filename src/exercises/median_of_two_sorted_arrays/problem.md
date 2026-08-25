@@ -2,8 +2,6 @@ You are given two integer arrays `nums1` and `nums2` of size `m` and `n` respect
 
 Your solution should run in $O(log (m+n))$ time.
 
-<br>
-
 **Example 1:**
 
 ```java
@@ -13,8 +11,6 @@ Output: 2.0
 ```
 
 Explanation: Among `[1, 2, 3]` the median is `2`.
-
-<br>
 
 **Example 2:**
 
@@ -26,8 +22,6 @@ Output: 2.5
 
 Explanation: Among `[1, 2, 3, 4]` the median is `(2 + 3) / 2 = 2.5`.
 
-<br>
-
 **Constraints:**
 * `nums1.length == m`
 * `nums2.length == n`
@@ -35,6 +29,3 @@ Explanation: Among `[1, 2, 3, 4]` the median is `(2 + 3) / 2 = 2.5`.
 * `0 <= n <= 1000`
 * `1 <= m + n <= 2000`
 * `-10^6 <= nums1[i], nums2[i] <= 10^6`
-
-
-<br>

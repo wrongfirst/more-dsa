@@ -32,6 +32,3 @@ Output: false
 * `n == matrix[i].length`
 * `1 <= m, n <= 100`
 * `-10000 <= matrix[i][j], target <= 10000`
-
-
-<br>

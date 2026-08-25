@@ -41,6 +41,3 @@ Explanation: The cars starting at 4 and 7 become a fleet at position 10. The car
 * `1 <= speed[i] <= 1,000,000`
 * `0 <= position[i] < target`
 * All the values of `position` are **unique**.
-
-
-<br>

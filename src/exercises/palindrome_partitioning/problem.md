@@ -21,6 +21,3 @@ Output: [["a"]]
 **Constraints:**
 * `1 <= s.length <= 20`
 * `s` contains only lowercase English letters.
-
-
-<br>

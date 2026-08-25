@@ -29,6 +29,3 @@ Output: -1
 **Constraints:**
 * `1 <= k <= n <= 100`
 * `1 <= times.length <= 1000`
-
-
-<br>

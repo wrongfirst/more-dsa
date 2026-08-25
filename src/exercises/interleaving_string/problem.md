@@ -39,10 +39,6 @@ Output: false
 
 Explanation: We can't split `s3` into `["ab", "xz", "cy"]` as the order of characters is not maintained.
 
-
 **Constraints:**
 * `0 <= s1.length, s2.length <= 100`
 * `0 <= s3.length <= 200`
-
-
-<br>

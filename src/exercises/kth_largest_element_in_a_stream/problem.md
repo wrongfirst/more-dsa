@@ -28,6 +28,3 @@ kthLargest.add(8);   // return 6
 * `-1000 <= nums[i] <= 1000`
 * `-1000 <= val <= 1000`
 * There will always be at least `k` integers in the stream when you search for the `kth` integer.
-
-
-<br>

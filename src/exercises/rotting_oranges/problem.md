@@ -27,6 +27,3 @@ Output: -1
 
 **Constraints:**
 * `1 <= grid.length, grid[i].length <= 10`
-
-
-<br>

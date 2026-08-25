@@ -31,6 +31,3 @@ Output: []
 **Constraints:**
 * `0 <= digits.length <= 4`
 * `2 <= digits[i] <= 9`
-
-
-<br>

@@ -3,7 +3,6 @@ You are given a stream of points consisting of x-y coordinates on a 2-D plane. P
 * **Add** - new points can be added to the stream into a data structure. Duplicate points are allowed and should be treated as separate points.
 * **Query** - Given a single query point, **count** the number of ways to choose three additional points from the data structure such that the three points and the query point form a **square**. The square must have all sides parallel to the x-axis and y-axis, i.e. no diagonal squares are allowed. Recall that a **square** must have four equal sides.
 
-
 Implement the `CountSquares` class:
 * `CountSquares()` Initializes the object.
 * `void add(int[] point)` Adds a new point `point = [x, y]`.
@@ -35,6 +34,3 @@ countSquares.count([2, 1]);   // return 2.
 **Constraints:**
 * `point.length == 2`
 * `0 <= x, y <= 1000`
-
-
-<br>

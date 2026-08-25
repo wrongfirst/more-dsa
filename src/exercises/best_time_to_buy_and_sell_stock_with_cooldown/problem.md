@@ -29,6 +29,3 @@ Output: 0
 **Constraints:**
 * `1 <= prices.length <= 5000`
 * `0 <= prices[i] <= 1000`
-
-
-<br>

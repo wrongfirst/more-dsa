@@ -5,8 +5,6 @@ Return `true` if the pattern matches the **entire** input string, otherwise retu
 * `'.'` Matches any single character
 * `'*'` Matches zero or more of the preceding element.
 
-<br>
-
 **Example 1:**
 
 ```java
@@ -16,8 +14,6 @@ Output: false
 ```
 
 Explanation: Regardless of which character we choose for the `'.'` in the pattern, we cannot match the second character in the input string.
-
-<br>
 
 **Example 2:**
 
@@ -29,8 +25,6 @@ Output: true
 
 Explanation: `'*'` means zero or more of the preceding element, `'n'`. We choose `'n'` to repeat three times.
 
-<br>
-
 **Example 3:**
 
 ```java
@@ -41,12 +35,7 @@ Output: true
 
 Explanation: The pattern `".*"` means zero or more of any character, so we choose `".."` to match `"xy"` and `"z"` to match `"z"`.
 
-<br>
-
 **Constraints:**
 * `1 <= s.length <= 20`
 * `1 <= p.length <= 20`
 * Each appearance of `'*'`, will be preceded by a valid character or `'.'`.
-
-
-<br>

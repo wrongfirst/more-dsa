@@ -21,6 +21,3 @@ The sum of 1 and 2 is 3. Since we are assuming a 1-indexed array, `index1` = 1, 
 * `2 <= numbers.length <= 1000`
 * `-1000 <= numbers[i] <= 1000`
 * `-1000 <= target <= 1000`
-
-
-<br>
