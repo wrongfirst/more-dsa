@@ -12,4 +12,4 @@ def minDistance(word1: str, word2: str) -> int:
                 dp[i][j] = dp[i + 1][j + 1]
             else:
                 dp[i][j] = 1 + min(dp[i + 1][j], dp[i][j + 1], dp[i + 1][j + 1])
-    return dp[0][0]
+    return int(dp[0][0])

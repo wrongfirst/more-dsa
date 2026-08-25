@@ -1,4 +1,4 @@
-def swimInWater(grid: List[List[int]]) -> int:
+def swimInWater(grid: list[list[int]]) -> int:
     N = len(grid)
     visit = set()
     minH = [[grid[0][0], 0, 0]]  # (time/max-height, r, c)

@@ -1,4 +1,4 @@
-def lastStoneWeight(stones: List[int]) -> int:
+def lastStoneWeight(stones: list[int]) -> int:
     stones = [-s for s in stones]
     heapq.heapify(stones)
 

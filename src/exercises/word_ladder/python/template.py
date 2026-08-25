@@ -1,2 +1,2 @@
-def ladderLength(beginWord: str, endWord: str, wordList: List[str]) -> int:
+def ladderLength(beginWord: str, endWord: str, wordList: list[str]) -> int:
     pass

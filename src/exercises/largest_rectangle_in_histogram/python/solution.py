@@ -1,4 +1,4 @@
-def largestRectangleArea(heights: List[int]) -> int:
+def largestRectangleArea(heights: list[int]) -> int:
     maxArea = 0
     stack = []  # pair: (index, height)
 

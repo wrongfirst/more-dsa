@@ -1,4 +1,4 @@
-def solve(board: List[List[str]]) -> None:
+def solve(board: list[list[str]]) -> None:
     ROWS, COLS = len(board), len(board[0])
 
     def capture(r, c):

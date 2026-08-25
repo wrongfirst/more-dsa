@@ -1,4 +1,4 @@
-def findDuplicate(nums: List[int]) -> int:
+def findDuplicate(nums: list[int]) -> int:
     slow, fast = 0, 0
     while True:
         slow = nums[slow]

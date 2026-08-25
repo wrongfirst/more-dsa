@@ -1,4 +1,4 @@
-def evalRPN(tokens: List[str]) -> int:
+def evalRPN(tokens: list[str]) -> int:
     stack = []
     for c in tokens:
         if c == "+":

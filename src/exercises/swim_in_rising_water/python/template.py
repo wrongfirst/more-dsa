@@ -1,2 +1,2 @@
-def swimInWater(grid: List[List[int]]) -> int:
+def swimInWater(grid: list[list[int]]) -> int:
     pass

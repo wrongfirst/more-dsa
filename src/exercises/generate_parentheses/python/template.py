@@ -1,2 +1,2 @@
-def generateParenthesis(n: int) -> List[str]:
+def generateParenthesis(n: int) -> list[str]:
     pass

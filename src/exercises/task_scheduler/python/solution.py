@@ -1,4 +1,4 @@
-def leastInterval(tasks: List[str], n: int) -> int:
+def leastInterval(tasks: list[str], n: int) -> int:
     count = Counter(tasks)
     maxHeap = [-cnt for cnt in count.values()]
     heapq.heapify(maxHeap)

@@ -1,2 +1,2 @@
-def findTargetSumWays(nums: List[int], target: int) -> int:
+def findTargetSumWays(nums: list[int], target: int) -> int:
     pass

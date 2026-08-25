@@ -1,2 +1,2 @@
-def minCostConnectPoints(points: List[List[int]]) -> int:
+def minCostConnectPoints(points: list[list[int]]) -> int:
     pass

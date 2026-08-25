@@ -1,4 +1,4 @@
-def partitionLabels(S: str) -> List[int]:
+def partitionLabels(S: str) -> list[int]:
     count = {}
     res = []
     i, length = 0, len(S)

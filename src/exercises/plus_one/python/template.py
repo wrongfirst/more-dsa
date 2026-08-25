@@ -1,2 +1,2 @@
-def plusOne(digits: List[int]) -> List[int]:
+def plusOne(digits: list[int]) -> list[int]:
     pass

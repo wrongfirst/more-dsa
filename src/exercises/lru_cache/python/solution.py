@@ -1,7 +1,8 @@
 class Node:
-    def __init__(self, key, val):
+    def __init__(self, key: int = 0, val: int = 0):
         self.key, self.val = key, val
-        self.prev = self.next = None
+        self.prev: Optional['Node'] = None
+        self.next: Optional['Node'] = None
 
 
 class LRUCache:
@@ -36,5 +37,6 @@ class LRUCache:
 
         if len(self.cache) > self.cap:
             lru = self.left.next
-            self.remove(lru)
-            del self.cache[lru.key]
+            if lru:
+                self.remove(lru)
+                del self.cache[lru.key]

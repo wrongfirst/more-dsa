@@ -7,8 +7,8 @@ class Node:
         self.random = random
 """
 
-def copyRandomList(head: 'Optional[Node]') -> 'Optional[Node]':
-    oldToCopy = {None: None}
+def copyRandomList(head: Optional[Node]) -> Optional[Node]:
+    oldToCopy: dict[Optional[Node], Optional[Node]] = {None: None}
 
     cur = head
     while cur:
@@ -18,7 +18,8 @@ def copyRandomList(head: 'Optional[Node]') -> 'Optional[Node]':
     cur = head
     while cur:
         copy = oldToCopy[cur]
-        copy.next = oldToCopy[cur.next]
-        copy.random = oldToCopy[cur.random]
+        if copy:
+            copy.next = oldToCopy[cur.next]
+            copy.random = oldToCopy[cur.random]
         cur = cur.next
     return oldToCopy[head]

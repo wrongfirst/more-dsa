@@ -1,2 +1,2 @@
-def singleNumber(nums: List[int]) -> int:
+def singleNumber(nums: list[int]) -> int:
     pass

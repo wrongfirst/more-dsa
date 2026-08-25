@@ -1,4 +1,4 @@
-def mergeTriplets(triplets: List[List[int]], target: List[int]) -> bool:
+def mergeTriplets(triplets: list[list[int]], target: list[int]) -> bool:
     good = set()
 
     for t in triplets:

@@ -1,4 +1,4 @@
-def maxProfit(prices: List[int]) -> int:
+def maxProfit(prices: list[int]) -> int:
     dp = {}  # key=(i, buying) val=max_profit
 
     def dfs(i, buying):

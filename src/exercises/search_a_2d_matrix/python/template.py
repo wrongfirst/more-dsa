@@ -1,2 +1,2 @@
-def searchMatrix(matrix: List[List[int]], target: int) -> bool:
+def searchMatrix(matrix: list[list[int]], target: int) -> bool:
     pass

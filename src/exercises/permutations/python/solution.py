@@ -1,4 +1,4 @@
-def permute(nums: List[int]) -> List[List[int]]:
+def permute(nums: list[int]) -> list[list[int]]:
     res = []
 
     if len(nums) == 1:

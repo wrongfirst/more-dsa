@@ -1,4 +1,4 @@
-def plusOne(digits: List[int]) -> List[int]:
+def plusOne(digits: list[int]) -> list[int]:
     one = 1
     i = 0
     digits = digits[::-1]

@@ -1,2 +1,2 @@
-def findDuplicate(nums: List[int]) -> int:
+def findDuplicate(nums: list[int]) -> int:
     pass

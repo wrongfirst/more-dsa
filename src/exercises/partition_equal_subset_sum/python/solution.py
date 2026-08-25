@@ -1,4 +1,4 @@
-def canPartition(nums: List[int]) -> bool:
+def canPartition(nums: list[int]) -> bool:
     if sum(nums) % 2:
         return False
 

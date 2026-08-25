@@ -1,4 +1,4 @@
-def findItinerary(tickets: List[List[str]]) -> List[str]:
+def findItinerary(tickets: list[list[str]]) -> list[str]:
     adj = {src: [] for src, dst in tickets}
     res = []
 

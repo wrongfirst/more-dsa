@@ -1,4 +1,4 @@
-def networkDelayTime(times: List[List[int]], n: int, k: int) -> int:
+def networkDelayTime(times: list[list[int]], n: int, k: int) -> int:
     edges = collections.defaultdict(list)
     for u, v, w in times:
         edges[u].append((v, w))

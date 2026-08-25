@@ -1,2 +1,2 @@
-def isNStraightHand(hand: List[int], groupSize: int) -> bool:
+def isNStraightHand(hand: list[int], groupSize: int) -> bool:
     pass

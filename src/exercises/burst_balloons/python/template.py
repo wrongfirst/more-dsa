@@ -1,2 +1,2 @@
-def maxCoins(nums: List[int]) -> int:
+def maxCoins(nums: list[int]) -> int:
     pass

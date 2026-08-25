@@ -1,2 +1,2 @@
-def solve(board: List[List[str]]) -> None:
+def solve(board: list[list[str]]) -> None:
     pass

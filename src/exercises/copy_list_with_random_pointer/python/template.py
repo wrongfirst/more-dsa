@@ -7,5 +7,5 @@ class Node:
         self.random = random
 """
 
-def copyRandomList(head: 'Optional[Node]') -> 'Optional[Node]':
+def copyRandomList(head: Optional[Node]) -> Optional[Node]:
     pass

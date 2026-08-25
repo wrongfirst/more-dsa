@@ -1,2 +1,2 @@
-def findItinerary(tickets: List[List[str]]) -> List[str]:
+def findItinerary(tickets: list[list[str]]) -> list[str]:
     pass

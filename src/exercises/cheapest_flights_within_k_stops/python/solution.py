@@ -1,4 +1,4 @@
-def findCheapestPrice(n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+def findCheapestPrice(n: int, flights: list[list[int]], src: int, dst: int, k: int) -> int:
     prices = [float("inf")] * n
     prices[src] = 0
 
@@ -11,4 +11,4 @@ def findCheapestPrice(n: int, flights: List[List[int]], src: int, dst: int, k: i
             if prices[s] + p < tmpPrices[d]:
                 tmpPrices[d] = prices[s] + p
         prices = tmpPrices
-    return -1 if prices[dst] == float("inf") else prices[dst]
+    return -1 if prices[dst] == float("inf") else int(prices[dst])

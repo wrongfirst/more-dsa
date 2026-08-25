@@ -1,2 +1,2 @@
-def maxAreaOfIsland(grid: List[List[int]]) -> int:
+def maxAreaOfIsland(grid: list[list[int]]) -> int:
     pass

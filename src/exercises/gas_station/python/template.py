@@ -1,2 +1,2 @@
-def canCompleteCircuit(gas: List[int], cost: List[int]) -> int:
+def canCompleteCircuit(gas: list[int], cost: list[int]) -> int:
     pass

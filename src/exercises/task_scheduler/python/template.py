@@ -1,2 +1,2 @@
-def leastInterval(tasks: List[str], n: int) -> int:
+def leastInterval(tasks: list[str], n: int) -> int:
     pass

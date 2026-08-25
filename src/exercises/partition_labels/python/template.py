@@ -1,2 +1,2 @@
-def partitionLabels(S: str) -> List[int]:
+def partitionLabels(S: str) -> list[int]:
     pass

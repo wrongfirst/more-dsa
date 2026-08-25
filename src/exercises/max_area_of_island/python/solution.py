@@ -1,4 +1,4 @@
-def maxAreaOfIsland(grid: List[List[int]]) -> int:
+def maxAreaOfIsland(grid: list[list[int]]) -> int:
     ROWS, COLS = len(grid), len(grid[0])
     visit = set()
 

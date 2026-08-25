@@ -8,7 +8,7 @@ class Twitter:
         self.tweetMap[userId].append([self.count, tweetId])
         self.count -= 1
 
-    def getNewsFeed(self, userId: int) -> List[int]:
+    def getNewsFeed(self, userId: int) -> list[int]:
         res = []
         minHeap = []
 

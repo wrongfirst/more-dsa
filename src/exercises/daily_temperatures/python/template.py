@@ -1,2 +1,2 @@
-def dailyTemperatures(temperatures: List[int]) -> List[int]:
+def dailyTemperatures(temperatures: list[int]) -> list[int]:
     pass

@@ -1,4 +1,4 @@
-def subsets(nums: List[int]) -> List[List[int]]:
+def subsets(nums: list[int]) -> list[list[int]]:
     res = []
 
     subset = []

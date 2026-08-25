@@ -1,2 +1,2 @@
-def longestIncreasingPath(matrix: List[List[int]]) -> int:
+def longestIncreasingPath(matrix: list[list[int]]) -> int:
     pass

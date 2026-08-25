@@ -1,4 +1,4 @@
-def minInterval(intervals: List[List[int]], queries: List[int]) -> List[int]:
+def minInterval(intervals: list[list[int]], queries: list[int]) -> list[int]:
     intervals.sort()
     minHeap = []
     res = {}

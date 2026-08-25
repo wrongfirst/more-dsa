@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 
-def rightSideView(root: Optional[TreeNode]) -> List[int]:
+def rightSideView(root: Optional[TreeNode]) -> list[int]:
     res = []
     q = deque([root])
 

@@ -1,2 +1,2 @@
-def findRedundantConnection(edges: List[List[int]]) -> List[int]:
+def findRedundantConnection(edges: list[list[int]]) -> list[int]:
     pass

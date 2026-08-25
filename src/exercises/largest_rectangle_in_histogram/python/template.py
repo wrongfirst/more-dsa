@@ -1,2 +1,2 @@
-def largestRectangleArea(heights: List[int]) -> int:
+def largestRectangleArea(heights: list[int]) -> int:
     pass

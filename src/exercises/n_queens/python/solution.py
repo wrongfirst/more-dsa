@@ -1,4 +1,4 @@
-def solveNQueens(n: int) -> List[List[str]]:
+def solveNQueens(n: int) -> list[list[str]]:
     col = set()
     posDiag = set()
     negDiag = set()

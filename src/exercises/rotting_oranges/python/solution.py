@@ -1,4 +1,4 @@
-def orangesRotting(grid: List[List[int]]) -> int:
+def orangesRotting(grid: list[list[int]]) -> int:
     q = collections.deque()
     fresh = 0
     time = 0

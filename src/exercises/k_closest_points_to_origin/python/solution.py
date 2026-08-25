@@ -1,4 +1,4 @@
-def kClosest(points: List[List[int]], k: int) -> List[List[int]]:
+def kClosest(points: list[list[int]], k: int) -> list[list[int]]:
     minHeap = []
     for x, y in points:
         dist = (x ** 2) + (y ** 2)
@@ -8,5 +8,5 @@ def kClosest(points: List[List[int]], k: int) -> List[List[int]]:
     res = []
     for _ in range(k):
         _, x, y = heapq.heappop(minHeap)
-        res.append((x, y))
+        res.append([x, y])
     return res

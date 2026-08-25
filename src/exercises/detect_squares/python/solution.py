@@ -3,11 +3,11 @@ class CountSquares:
         self.ptsCount = defaultdict(int)
         self.pts = []
 
-    def add(self, point: List[int]) -> None:
+    def add(self, point: list[int]) -> None:
         self.ptsCount[tuple(point)] += 1
         self.pts.append(point)
 
-    def count(self, point: List[int]) -> int:
+    def count(self, point: list[int]) -> int:
         res = 0
         px, py = point
         for x, y in self.pts:

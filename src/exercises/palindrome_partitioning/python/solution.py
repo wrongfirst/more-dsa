@@ -1,5 +1,5 @@
 
-def partition(s: str) -> List[List[str]]:
+def partition(s: str) -> list[list[str]]:
     res, part = [], []
 
     def dfs(i):

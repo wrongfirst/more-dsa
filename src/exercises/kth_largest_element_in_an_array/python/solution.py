@@ -1,7 +1,7 @@
 # Quick Select
 # Time complexity: O(n) in average, O(n^2) in worst case
 
-def findKthLargest(nums: List[int], k: int) -> int:
+def findKthLargest(nums: list[int], k: int) -> int:
     k = len(nums) - k
     left, right = 0, len(nums) - 1
 
@@ -17,7 +17,7 @@ def findKthLargest(nums: List[int], k: int) -> int:
 
     return nums[k]
 
-def partition(nums: List[int], left: int, right: int) -> int:
+def partition(nums: list[int], left: int, right: int) -> int:
     pivot, fill = nums[right], left
 
     for i in range(left, right):

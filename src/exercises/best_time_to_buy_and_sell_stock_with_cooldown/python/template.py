@@ -1,2 +1,2 @@
-def maxProfit(prices: List[int]) -> int:
+def maxProfit(prices: list[int]) -> int:
     pass

@@ -1,4 +1,4 @@
-def dailyTemperatures(temperatures: List[int]) -> List[int]:
+def dailyTemperatures(temperatures: list[int]) -> list[int]:
     res = [0] * len(temperatures)
     stack = []  # pair: [temp, index]
 

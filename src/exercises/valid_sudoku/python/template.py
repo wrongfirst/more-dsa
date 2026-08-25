@@ -1,2 +1,2 @@
-def isValidSudoku(board: List[List[str]]) -> bool:
+def isValidSudoku(board: list[list[str]]) -> bool:
     pass

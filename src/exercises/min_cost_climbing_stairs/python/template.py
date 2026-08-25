@@ -1,2 +1,2 @@
-def minCostClimbingStairs(cost: List[int]) -> int:
+def minCostClimbingStairs(cost: list[int]) -> int:
     pass

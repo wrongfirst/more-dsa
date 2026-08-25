@@ -1,2 +1,2 @@
-def kClosest(points: List[List[int]], k: int) -> List[List[int]]:
+def kClosest(points: list[list[int]], k: int) -> list[list[int]]:
     pass

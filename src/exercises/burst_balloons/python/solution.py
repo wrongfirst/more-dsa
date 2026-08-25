@@ -1,4 +1,4 @@
-def maxCoins(nums: List[int]) -> int:
+def maxCoins(nums: list[int]) -> int:
     cache = {}
     nums = [1] + nums + [1]
 

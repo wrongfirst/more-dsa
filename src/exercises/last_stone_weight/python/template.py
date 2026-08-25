@@ -1,2 +1,2 @@
-def lastStoneWeight(stones: List[int]) -> int:
+def lastStoneWeight(stones: list[int]) -> int:
     pass

@@ -1,2 +1,2 @@
-def islandsAndTreasure(grid: List[List[int]]) -> None:
+def islandsAndTreasure(grid: list[list[int]]) -> None:
     pass

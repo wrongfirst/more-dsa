@@ -1,2 +1,2 @@
-def maxSlidingWindow(nums: List[int], k: int) -> List[int]:
+def maxSlidingWindow(nums: list[int], k: int) -> list[int]:
     pass

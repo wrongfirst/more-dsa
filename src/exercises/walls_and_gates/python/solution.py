@@ -1,4 +1,4 @@
-def islandsAndTreasure(grid: List[List[int]]) -> None:
+def islandsAndTreasure(grid: list[list[int]]) -> None:
     ROWS, COLS = len(grid), len(grid[0])
     visit = set()
     q = deque()

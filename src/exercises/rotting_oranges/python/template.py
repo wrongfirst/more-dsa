@@ -1,2 +1,2 @@
-def orangesRotting(grid: List[List[int]]) -> int:
+def orangesRotting(grid: list[list[int]]) -> int:
     pass

@@ -1,4 +1,4 @@
-def letterCombinations(digits: str) -> List[str]:
+def letterCombinations(digits: str) -> list[str]:
     res = []
     digitToChar = {
         "2": "abc",

@@ -1,4 +1,4 @@
-def minCostConnectPoints(points: List[List[int]]) -> int:
+def minCostConnectPoints(points: list[list[int]]) -> int:
     N = len(points)
     adj = {i: [] for i in range(N)}
     for i in range(N):

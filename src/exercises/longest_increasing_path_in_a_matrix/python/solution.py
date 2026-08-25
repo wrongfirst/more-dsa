@@ -1,4 +1,4 @@
-def longestIncreasingPath(matrix: List[List[int]]) -> int:
+def longestIncreasingPath(matrix: list[list[int]]) -> int:
     ROWS, COLS = len(matrix), len(matrix[0])
     dp = {}  # (r, c) -> LIP
 

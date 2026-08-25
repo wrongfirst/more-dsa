@@ -1,4 +1,4 @@
-def trap(height: List[int]) -> int:
+def trap(height: list[int]) -> int:
     if not height:
         return 0
 
